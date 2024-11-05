@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 7ef74543-0804-4ac0-b15b-672e5ce383b5)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Component Notes:\n- resistors in amplification block must be well matched (<= 1% tolerance)\n- bipolar caps are film (not ceramic to avoid microphone effects)"
+    (at 177.8 172.72 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 22955d18-9b0b-4b61-bcd0-b210c8b9cb6e)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
